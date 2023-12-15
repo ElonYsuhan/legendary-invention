@@ -2,7 +2,7 @@
 import { onMounted } from 'vue';
 import { createViewer } from './lib/Earth';
 onMounted(()=>{
-  createViewer("viewer-elon")
+  createViewer("viewer-elon");
 })
 </script>
 
